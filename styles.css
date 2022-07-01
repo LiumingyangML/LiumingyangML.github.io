@@ -2,7 +2,7 @@
 
 :root {
   --bg: #5f4b8b;
-  --fg: #ffffff;
+  --fg: #0e0303;
   --secondaryFg: #b3b3b3;
   --containerBg: #272727;
   --searchBg: var(--containerBg);
@@ -26,11 +26,11 @@ body {
 
 #clock {
   font-family: sans-serif;
-  font-size: 3.5rem;
+  font-size: 6.5rem;
   font-weight: 600;
   font-family: var(--fontFamily);
   color: var(--fg);
-  margin-bottom: 0.25em;
+  margin-bottom: 3.25em;
 }
 
 #search {
