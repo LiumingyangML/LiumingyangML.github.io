@@ -15,8 +15,8 @@ author: Liu Ming-Yang
 
 navbar-links:
   About Me: "aboutme"
-  Publications: "assets/publications.md"
-  Projects: "assets/projects.html"
+  Publications: "publications"
+  Projects: "assets/projects"
   Blogs: "blog"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
