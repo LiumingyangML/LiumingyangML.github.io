@@ -11,7 +11,7 @@
 }
 
 body {
-  background-color: var(--bg);
+/*   background-color: var(--bg); */
   margin: 0px;
 }
 
@@ -30,7 +30,7 @@ body {
   font-weight: 600;
   font-family: var(--fontFamily);
   color: var(--fg);
-  margin-bottom: 3.25em;
+  margin-bottom: 5.25em;
 }
 
 #search {
