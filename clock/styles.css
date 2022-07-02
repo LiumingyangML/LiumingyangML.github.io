@@ -30,7 +30,7 @@ body {
   font-weight: 600;
   font-family: var(--fontFamily);
   color: var(--fg);
-  margin-bottom: 3.25em;
+  margin-bottom: 7.25em;
 }
 
 #search {
